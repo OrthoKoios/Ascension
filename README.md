@@ -36,10 +36,6 @@ To shoot, press the spacebar. To use your skill, press f. To move, use WASD or a
   * For deaths, it is not a problem. But for targets that still live after being hit, the explosion will appear to move on the target's sprite, perhaps even moving off it, as the target can continue to move while the explosion does not.
 * Enemy spawn is completely random, meaning that player can go quite a while without seeing an enemy.
 
-# Support
-
-Contact jdai5@ocdsb.ca if you have any concerns or questions.
-
 # Sources
 
 ### Sites used for Learning
